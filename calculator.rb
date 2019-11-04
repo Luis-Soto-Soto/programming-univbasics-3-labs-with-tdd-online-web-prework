@@ -1,3 +1,4 @@
 # Add your variables here
-first_number = 2
-second_number = 1
+first_number = "k"
+second_number = "l"
+sum = "q"
